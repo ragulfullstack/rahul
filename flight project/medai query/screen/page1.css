@@ -1,0 +1,96 @@
+.header
+{
+    background-color: yellowgreen;
+    color:bisque;
+    padding: 10px;
+}
+
+.menu ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    
+}
+.menu li{
+    padding: 8px;
+    margin-bottom: 7px;
+    background-color: #33b5e5;
+    color:#ffffff;
+
+}
+.para1{
+    color:black;
+    
+    font-size: 25px;
+    
+}
+.p
+{
+    color:blue;
+    font-size: medium;
+    background-color: yellowgreen;
+}
+.aside{
+    background-color:cadetblue;
+    padding: 25px;
+    color:#ffffff;
+    text-align: center;
+    font-size: 14px;
+}
+
+.footer{
+    background-color:#33b5e5;
+
+    color:#ffffff;
+
+    text-align: center;
+
+    font-size: 13px;
+
+    padding: 15px;
+}
+.row::after{
+    content:"";
+    clear:both;
+    display:block;
+}
+
+@media only screen and (max-width:768px) {
+    /* For mobile phones */
+
+    [class*="col-"]
+}
+
+
+.col-2 {width: 16.66%;float:left;}
+
+    .col-3 {width: 25% ;float:left;}
+
+        .col-4 {width: 33.33%;float:left;}
+
+            .col-5 {width: 41.66%;float:left;}
+
+                .col-6 {width:50%;float:left;}
+
+                    .col-7 {width: 58.33%;float:left;}
+
+                        .col-8 {width: 8.33%;float:left;}
+
+                            .col-9 {width: 8.33%;float:left;}
+
+                                .col-10 {width: 83.33%;float:left;}
+
+                                    .col-11 {width: 91.66%;float:left;}
+
+                                        .col-12 {width: 100%;float:left;}
+    
+
+
+
+
+
+
+
+
+
+

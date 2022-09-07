@@ -1,0 +1,235 @@
+       *{
+    margin: 0;
+    padding: 0;
+}
+
+.image{
+    background-image: url('takeoff.jpg');
+    height:100vh;
+    background-size: cover;
+
+    background-repeat: no-repeat;
+}
+h1
+{
+    float:left;
+    color:blanchedalmond;
+    margin-left: 10px;
+}
+.a
+{   
+    color: white;
+    display: flex;
+    margin-left: 600px;
+    padding-top: 10px ;
+    list-style-type: none;
+    
+}
+    
+li{
+    margin-left: 10px;
+
+
+}
+h2{
+    padding: 20px;
+    color:ghostwhite;
+    margin-left: 600px;
+}
+h3
+{
+    color:ivory;
+    font-size:30px;
+    margin-left: 30px;
+    padding: 12px;
+}
+button
+{
+    height:40px;
+    background-color: chartreuse;
+    margin-left: 30px;
+    
+    
+}
+.para
+{
+    background-color: yellow;
+    color:black;
+    height:300px;
+    width: 800px; 
+    padding:20px;
+    font-size: 30px;
+}
+.border{
+    
+    
+    border:2px solid black;
+    margin-left: 700px;
+    position:absolute;
+    top:750px;
+    font-size:20px ;
+    padding:20px;
+    width: 300px;
+}
+img
+{
+    height:300px;
+    width:350px;
+    border: 5px solid black;
+    
+      
+    
+}
+.bg
+{
+    background-color:cadetblue;
+    font-size: 30px;
+}
+
+.a2
+{
+    margin-left: 350px;
+    font-size: large;
+    
+
+}
+.click1
+{
+    color:brown;
+    margin-left: 894px;
+    position: absolute;
+    top:1300px;
+}
+.final
+{
+    background-color:darkseagreen;
+    color:black;
+    height:350px;
+    width:1197px;
+    font-size: 30px;
+    padding:20px;
+    
+    
+}
+.text
+{
+    font-size: 20px;
+    margin-left: 400px;
+}
+.numbers
+{
+    font-size: medium;
+    margin-left: 400px;
+    padding: 44px;
+    position: absolute;
+    top:1502px;
+    
+}
+.one1
+{
+    font-size: small;
+    margin-left: 440px;
+    position: absolute;
+    top: 1570px;
+    
+}
+.numbers2
+{
+    font-size: medium;
+    margin-left: 550px;
+    padding: 50px;
+    position: absolute;
+    top: 1497px;
+}
+
+.two2
+{
+    font-size: small;
+    margin-left:590px ;
+    position:absolute;
+    top:1570px;
+    
+    
+}
+.numbers3
+{
+    font-size: medium;
+    margin-left: 800px;
+    position: absolute;
+    top:1540;
+}
+.three
+{
+    font-size: small;
+    margin-left: 780px;
+    position:absolute;
+    top:1565px;
+
+}
+.four
+{
+    margin-left:440px ;
+    font-size: medium;
+    position: absolute;
+    top: 1610px;
+}
+.numbers4
+{
+    font-size: small;
+    margin-left: 440px;
+    position: absolute;
+    top: 1635px;
+    
+}
+.five
+{
+    margin-left: 600px;
+    font-size: medium;
+    position: absolute;
+    top:1610px;
+}
+.numbers5
+
+{
+    font-size: medium;
+    margin-left: 550px;
+    padding: 50px;
+    position: absolute;
+    top: 1585px;
+} 
+.six
+{
+    font-size: medium;
+    margin-left: 800px;
+    position:absolute;
+    top:1610px;
+  
+} 
+.numbers6
+{
+    font-size: small;
+    margin-left:800px;
+    position: absolute;
+    top:1639;
+} 
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
