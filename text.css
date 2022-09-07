@@ -1,0 +1,95 @@
+
+
+
+
+
+
+
+
+body
+{
+    
+     background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png);
+     
+    color:cornsilk;
+    text-align: center;
+    
+}
+
+
+    
+
+
+    
+
+.messages1
+{
+    
+    background-color: cornflowerblue;
+    border-radius: 14px;
+    height: 37px;
+    width: 180px;
+    text-align:center;
+    padding: 10px;
+}
+
+.messages2
+{
+    
+    background-color: gray;
+    border-radius: 14px;
+    height: 35px;
+    width: 280px;
+    text-align:center;
+    padding: 10px;
+    float:right; 
+}
+.messages3
+{
+    background-color: cornflowerblue;
+    border-radius:13px ;
+    height:35px;
+    width: 290px;
+    text-align: center;
+    padding: 10px;
+    
+}
+.messages4
+{
+    background-color:gray ;
+    border-radius: 13px;
+    height:35px;
+    width:310px;
+    text-align: center;
+    padding:10px ;
+    float:right;
+
+}
+.messages5
+{
+    background-color: cornflowerblue;
+    border-radius: 14px;
+    height:35px;
+    width: 280px;
+    text-align: center;
+    padding: 10px;
+}
+.messages6
+{
+    background-color: gray;
+    border-radius: 12px;
+    height:35px;
+    width:300px;
+    text-align: center;
+    padding: 10px;
+    float:right;
+}
+.messages7
+{
+    background-color: cornflowerblue;
+    border-radius: 12px;
+    height:35px;
+    width: 280px;
+    text-align: center;
+    padding: 10px;
+}
