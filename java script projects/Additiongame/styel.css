@@ -1,0 +1,35 @@
+#main
+{
+   background-image: url("https://i.gifer.com/origin/64/647040910feebf23ecb28f47872d91a1.gif");
+    width:400px;
+    height:300px;
+    margin-left: 500px;
+    position: absolute;
+    margin-top: 60px;
+}
+
+#next
+{
+    margin-left: 500px;
+    position: absolute;
+    margin-top: 361px;
+    background-color: grey;
+    height: 200px;
+    width:400px;
+    font-size: 20px;
+    color:azure;
+}
+h1{
+    text-align: center;
+}
+
+#b1
+{
+    margin-left: 50px;
+}
+
+#tex
+{
+    margin-left: 60px;
+}
+

@@ -1,0 +1,81 @@
+.main
+{
+    height: 600px;
+    width:400px;
+    
+    
+}
+
+.picture
+{
+   
+    height:250px;
+    width:80px;
+    background-color: darkslategrey;
+    margin-left: 200px;
+    position: absolute;
+    margin-top: -560px;
+    border-radius: 20px;
+    
+}
+
+#d
+{
+    border-radius: 100px;
+    height: 49px;
+    width: 48px;
+    margin: 17px;
+   
+}
+
+#e
+{
+    border-radius: 100px;
+    height: 49px;
+    width: 48px;
+    margin: 17px;
+   
+}
+
+
+#f
+{
+    border-radius: 100px;
+    height: 49px;
+    width: 48px;
+    margin: 17px;
+   
+}
+
+
+#a
+{
+    height:50px;
+    width:90px;
+    font-size: 30px;
+    box-shadow: 3px 3px 3px black;
+   
+    
+}
+
+#b
+{
+    height:50px;
+    width:90px;
+    font-size:28px ;
+    box-shadow: 3px 3px 3px black;
+    
+}
+
+#c
+{
+    height:50px;
+    width:90px;
+    font-size: 34px;
+    box-shadow: 3px 3px 3px black;
+    
+} 
+
+
+
+

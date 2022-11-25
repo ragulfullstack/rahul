@@ -1,0 +1,31 @@
+#btn
+{
+    background-color: blueviolet;
+}
+
+.main
+{
+    background-color: lightsalmon;
+    height:400px;
+    
+    width:460px;
+    margin-left: 400px;
+    position: absolute;
+    margin-top: 150px;
+    border-radius:30px;
+}
+
+h1{
+    text-align: center;
+    margin: 10px;
+}
+
+h4{
+    text-align: center;
+    margin:20px;
+}
+#next
+{
+  margin-left: 120px;
+  
+}

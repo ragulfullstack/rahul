@@ -1,0 +1,19 @@
+.line
+{
+    color:green;
+    background-color: chartreuse;
+    border-radius:5px;
+    border: 2px solid black;
+    text-decoration: line-through;
+}
+
+#divid
+{
+    background-color: lightslategrey;
+    padding: 20px;
+    width:200px;
+    margin-left: 550px;
+    font-size: 40px;
+    position: absolute;
+    margin-top: 250px;
+}
